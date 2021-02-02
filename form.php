@@ -32,7 +32,7 @@ error_log("inside page");
 <input type="text" name="Email_id">
 <br>
 </p>
-<label>Nick name</label>
+<label>Nice name</label>
 <input type="text" name="nicename">
 <br>
 <button type="submit" name="save">Save</button>
