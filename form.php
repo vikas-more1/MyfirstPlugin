@@ -2,7 +2,7 @@
 <input type="hidden" name="option" value="mo_ldap_form">
 <u>
 <b>
-<label> New User information </label>
+<label> New User information ( EDITED BY VIKAS MORE ) </label>
 <?php
 error_log("inside page");
 ?>
